@@ -3,6 +3,9 @@ main:
   - title: "Projects"
     url: /projects/    
     
+  - title: "Public Engagement"
+    url: /public_engagement/  
+    
   - title: "CV"
     url: /CV/
     
