@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<link rel = "shortcut icon" type = "image/png" href = "/images/Graphics/AmongUs.png">
+
 I am a graphics designer. If you have anything you would like made then please don't hesitate to get in touch :)
 
 <img src='/images/Graphics/Ali.png'>
