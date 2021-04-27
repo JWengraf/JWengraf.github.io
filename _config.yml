@@ -76,8 +76,8 @@ analytics:
 # Site Author
 author:
   name             : "Joshua Wengraf"
-  avatar           : "ProfilePicure3.jpg"
-  bio              : "MPhys and MSc (by research) graduate of the Graphene NOWNANO CDT"
+  avatar           : "myAvatar.png"
+  bio              : "MPhys and MSc (by research) graduate"
   location         : # "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -87,30 +87,30 @@ author:
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble         : JoshuaWengraf
   flickr           :
-  facebook         : joshua.wengraf
+  facebook         : WengrafDesigns
   foursquare       :
-  github           : "Joshuawengraf"
+  github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : wengrafdesigns
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
-  orcid            :  https://orcid.org/0000-0001-5736-038X
-  pinterest        :
+  orcid            :  
+  pinterest        : JoshuaWengraf/
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : JoshuaWengraf
+  twitter          : 
   vine             : 
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  arXiv            : https://arxiv.org/search/?query=wengraf&searchtype=all&source=header 
+  arXiv            : # https://arxiv.org/search/?query=wengraf&searchtype=all&source=header 
 
 # Reading Files
 include:
