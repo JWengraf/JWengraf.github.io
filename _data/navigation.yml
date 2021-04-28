@@ -1,10 +1,13 @@
 # main links links
 main: 
   - title: "Research Projects"
-    url: /projects/    
+    url: /research_projects/    
     
   - title: "Public Engagement"
     url: /public_engagement/  
+    
+  - title: "Teaching"
+    url: /teaching  
     
   - title: "CV"
     url: /CV/
