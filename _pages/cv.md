@@ -16,8 +16,8 @@ Education
 
 Publications
 ======
-{% for post in site.publications reversed%}
-  {% include archive-single-cv.html %} 
+<ul>{% for post in site.publications reversed%}
+  {% include archive-single-cv.html %} </ul>
 {% endfor %}
 
   
