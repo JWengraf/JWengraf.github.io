@@ -246,7 +246,7 @@ defaults:
    # _portfolio
   - scope:
       path: ""
-      type: research_experience
+      type: portfolio
     values:
       layout: single
       author_profile: true
