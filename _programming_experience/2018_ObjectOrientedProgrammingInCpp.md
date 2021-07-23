@@ -6,4 +6,4 @@ collection: programming_experience
 
 ---
 
-For my final year project Object Oriented Programming I wrote a program to store the properties of various shapes. This made use of fancy concepts such as inheritance, polymorphism, virtual functions etc.
+For my final year project in Object Oriented Programming I wrote a program to store the properties of various shapes. This made use of fancy concepts such as inheritance, polymorphism, virtual functions etc. Find out more <a href="https://theory.physics.manchester.ac.uk/~mccsnrw/cplusplus/Course.html">here</a>
